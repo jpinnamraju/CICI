@@ -8,7 +8,7 @@ instagram: YourLabHandle
 youtube: YourLabChannel
 
 # base directory where site is hosted
-baseurl: /lab-website-template
+baseurl: /CICI
 
 # default front matter parameters for markdown files
 defaults:
