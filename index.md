@@ -2,11 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Dynamicg SWAP Project
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
-
+[Dynamic SWAP Project](https://science.iupui.edu/cs/research/faculty-labs/dynaswap/index.html) The objective of this project is to develop a coherently integrated and trustworthy holistic secure workflow protection architecture for cyberinfrastructures. 
 {% include big-link.html icon="fab fa-github" text="see the project page on Github" link="https://github.com/iupui-soic/dynaswap" %}{% include big-link.html icon="fas fa-book" text="See the documentation" link="https://github.com/greenelab/lab-website-template/wiki" %}{:.center}
 
 <!-- section break -->
@@ -14,8 +12,10 @@ Spend less time reinventing the wheel, and more time running your lab.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Scientific cyberinfrastructures promise solutions to computational challenges with rich resources; they embrace collaborative workflows in which users can access and share scientific data and computing resources to perform research and education tasks, which catalyze scientific discovery. One example of such cyberinfrastructure is the Jetstream Cloud Infrastructure, an NSF-supported resource for science and engineering research that enables collaborative scientific discovery.
+
+Although Jetstream provides basic data storage security and web authentication, its security features do not satisfy the strict requirements involving sensitive data, such as healthcare data with protected health information (PHI). Guaranteeing the security and integrity of the scientific workflow and associated data is essential to the credibility of knowledge and scientific discovery. The proposed cybersecurity architecture supports roles, role hierarchies, and data hierarchies, as well as dynamic changes of roles and hierarchical relations within the scientific infrastructure. This project will combine existing cutting-edge security frameworks (including an AuthenticationAuthorization-Accounting framework, Multi- Factor-Authentication, Secure Digital Provenance, and Blockchain) with advanced security tools (e.g., Biometric-Capsule, Cryptography-based Hierarchical Access Control, and dual-level key management). These are integrated to deliver a secure scientific infrastructure, which allows researchers, educators, practitioners, and students to remotely access and share sensitive data, computing resources, and workflows with flexibility and convenience while also having the highest security and privacy protection. This project will also validate the developed secure infrastructure in life-science research environments and in the education settings of health informatics.
+
 
 [See what we've published &nbsp;→](research)
 {:.center}
