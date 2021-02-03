@@ -12,9 +12,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 <!-- section break -->
 
 {% capture html %}
-{% include team-list.html role="pi" %}
-{% include team-list.html role="phd" %}
-{% include team-list.html role="programmer" %}
+{% include team-list.html role="student" %}
+{% include team-list.html role="researcher" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
