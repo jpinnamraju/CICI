@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Dynamicg SWAP Project
+# Dynamic SWAP Project
 
 [Dynamic SWAP Project](https://science.iupui.edu/cs/research/faculty-labs/dynaswap/index.html) The objective of this project is to develop a coherently integrated and trustworthy holistic secure workflow protection architecture for cyberinfrastructures. 
 {% include big-link.html icon="fab fa-github" text="see the project page on Github" link="https://github.com/iupui-soic/dynaswap" %}{% include big-link.html icon="fas fa-book" text="See the documentation" link="https://github.com/greenelab/lab-website-template/wiki" %}{:.center}
