@@ -4,26 +4,26 @@ title: Contact
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Computer & Information Science](), at the school of [Science]().
+We are located on the Second floor of the [Computer and Information Science building]().
 
 {%
   include figure.html
   image="images/photo.jpg"
   width="100%"
-  caption="The Center for Wit and Sagacity"
+  caption="Computer & Information Science"
 %}
 
 <!-- section break -->
 
 ### Email
 
-[scrooge@mcduck.com](mailto:scrooge@mcduck.com)
+[csgrad@iupui.edu](mailto:csgrad@iupui.edu)
 {:.center}
 
 ### Phone
 
-[(555) 867-5309](tel:+1-555-867-5309)
+[(317) 274-9727](tel:+1-317-274-9727)
 {:.center}
 
 ### Address
@@ -33,10 +33,10 @@ Tip: Put both a mailing address for mail/deliveries, AND a navigation-friendly
 address so people can find their way to you easily.
 {% endcomment %}
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada  
+723 W. Michigan Street
+SL 280, Indianapolis, IN 46202 
+USA 
 {:.center}
 
-[<i class="fas fa-external-link-alt"></i> on Google Maps](https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828)
+[<i class="fas fa-external-link-alt"></i> on Google Maps](https://www.google.com/maps/place/723+W+Michigan+St,+Indianapolis,+IN+46202/@39.7739602,-86.1729919,17z/data=!3m1!4b1!4m5!3m4!1s0x886b50ca09c365af:0xdfe73c9b3b25bbbc!8m2!3d39.7739561!4d-86.1708032)
 {:.center}
