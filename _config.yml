@@ -1,11 +1,8 @@
 # site-wide variables
-title: Lab Website Template
-email: jane.smith@your-lab.com
-google: Jane Smith
-github: your-lab
-twitter: YourLabHandle
-instagram: YourLabHandle
-youtube: YourLabChannel
+title: CICI Project website
+email: csgrad@iupui.edu
+google: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839746
+github: https://github.com/iupui-soic/dynaswap
 
 # base directory where site is hosted
 baseurl: /CICI
