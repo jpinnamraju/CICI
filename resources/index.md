@@ -13,7 +13,9 @@ Shell-scripts: This folder includes all the shell scripts that will be used in t
 Integration-tests: This folder contains the Gherkin BDD .feature file and related pytest files. You can execute the test scripts and get the CVSS score using pytest -s You need to install the following:
 
 Firefox web driver using: sudo apt-get install firefox-geckodriver.
+
 pytest and pytest-bdd using: pip install pytest pytest-bdd
+
 selenium using: pip install selenium
 <!-- section break -->
 
