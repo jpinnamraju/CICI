@@ -9,7 +9,7 @@ We are located on the Second floor of the [Computer and Information Science buil
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/cs-banner-2-desktop.jpg"
   width="100%"
   caption="Computer & Information Science"
 %}
