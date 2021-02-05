@@ -19,21 +19,4 @@ pytest and pytest-bdd using: pip install pytest pytest-bdd
 selenium using: pip install selenium
 <!-- section break -->
 <!-- section break -->
-
-## More
-
-{% capture html %}
-{% include resource-list.html group="more" size="medium" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
 <!-- section break -->
-
-## Legacy
-
-{% capture html %}
-{% include resource-list.html group="legacy" size="small" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
