@@ -20,3 +20,14 @@
   date: '2019-05-28'
   link: https://doi.org/ghx2r7
   id: doi:10.1145/3322431.3325417
+- title: User-Friendly Design of Cryptographically-Enforced Hierarchical Role-based
+    Access Control Models
+  authors:
+  - Xiaoyuan Yu
+  - Brandon Haakenson
+  - Tyler Phillips
+  - Xukai Zou
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2020-08-01'
+  link: https://doi.org/ghx956
+  id: doi:10.1109/ICCCN49398.2020.9209656
