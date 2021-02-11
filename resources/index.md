@@ -14,9 +14,9 @@ dynaswap-omrs: This folder contains the openMRS dynaswap module. The module alow
 
   dynaswap/dynaswap-omrs/omod/src/main/webapp/ - contains information for the web app including the Django Code
 
-  dynaswap/dynaswap-omrs/omod/src/main/webapp/requirements.txt – lists the dependencies needed for the VM 
+  dynaswap/dynaswap-omrs/omod/src/main/webapp/requirements.txt-lists the dependencies needed for the VM 
   along with their correct versions.
-  
+
   Manage.py - connects Django web app to the openMRS data
 
 Shell-scripts: This folder includes all the shell scripts that will be used in the project. Currently includes add users script which add users and their public keys on startup to a VM.
