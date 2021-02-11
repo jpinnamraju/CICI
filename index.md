@@ -23,7 +23,7 @@ Although Jetstream provides basic data storage security and web authentication, 
 
 {%
   include feature.html
-  image="images/publications.jpg"
+  image="images/CICI.jpg"
   link="research"
   title="Our Research"
   text=text
