@@ -17,6 +17,14 @@ Firefox web driver using: sudo apt-get install firefox-geckodriver.
 pytest and pytest-bdd using: pip install pytest pytest-bdd
 
 selenium using: pip install selenium
+
+
+title: Architecture
+System Overview
+
+Dynaswap’s proposed security architecture for accessing and handling sensitive data is shown above. Many security, data processing, and data transfer features were employed to ensure data protection and support collaborative and dynamic scientific research and training. All aspects of this cybersecurity architecture will be included in a VM image, deployable on JetStream. The image contains all the information needed to build up the Dynaswap architecture. Once the project is deployed on JetStream, servers can run virtual machines that include all the Dynaswap project features.
+image: images/architecture.png
+
 <!-- section break -->
 <!-- section break -->
 <!-- section break -->
