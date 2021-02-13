@@ -30,7 +30,7 @@ Although Jetstream provides basic data storage security and web authentication, 
 {%
   include feature.html
   image="images/Optimized.jpg"
-  link="research"
+  link="https://iujetstream.atlassian.net/wiki/spaces/JWT/overview"
   title="Our Research"
   text=text
 %}
