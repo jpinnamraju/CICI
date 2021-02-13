@@ -15,13 +15,6 @@ title: Team
 
 <!-- section break -->
 
-{%
-  include big-link.html
-  icon="fas fa-hands-helping"
-  text="Join the Team"
-  link="join"
-%}{:.center}
-
 <!-- section break -->
 
 ## Funding
