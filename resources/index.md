@@ -3,6 +3,8 @@ title: Software
 ---
 
 # <i class="fas fa-tools"></i>Software
+[Software](https://github.com/iupui-soic/dynaswap/wiki/3.-GitHub-Codebase)
+
 
 dynaswap: This repository contains the openMRS dynaswap module and other shell scripts which are being utilized in the project.
 
