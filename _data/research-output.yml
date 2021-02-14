@@ -31,3 +31,33 @@
   date: '2020-08-01'
   link: https://doi.org/ghx956
   id: doi:10.1109/ICCCN49398.2020.9209656
+- title: Reexamine the identities of soldiers in an iconic image using deep-learning-based
+    facial recognition techniques,
+  authors:
+  - '#Tyler Phillips'
+  - Kenneth E
+  publisher: Military images
+  date: '2019-03-01'
+  link: https://par.nsf.gov/biblio/10097228-reexamine-identities-soldiers-iconic-image-using-deep-learning-based-facial-recognition-techniques
+  id: https://par.nsf.gov/biblio/10097228
+- title: Technical Program
+  authors: []
+  publisher: ''
+  date: '1900-01-01'
+  link: https://www.insticc.org/node/TechnicalProgram/biostec/2021/presentationDetails/103252
+  id: https://www.insticc.org/node/TechnicalProgram/biostec/2021/presentationDetails/103252
+- title: 'AuthN-AuthZ: Integrated, User-Friendly and Privacy-Preserving Authentication
+    and Authorization'
+  authors:
+  - T. Phillips
+  - X. Yu
+  - B. Haakenson
+  - S. Goyal
+  - X. Zou
+  - S. Purkayastha
+  - H. Wu
+  publisher: 2020 Second IEEE International Conference on Trust, Privacy and Security
+    in Intelligent Systems and Applications (TPS-ISA)
+  date: '2020-10-01'
+  link: https://ieeexplore.ieee.org/document/9325396
+  id: https://ieeexplore.ieee.org/document/9325396
