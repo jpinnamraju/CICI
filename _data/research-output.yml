@@ -40,12 +40,6 @@
   date: '2019-03-01'
   link: https://par.nsf.gov/biblio/10097228-reexamine-identities-soldiers-iconic-image-using-deep-learning-based-facial-recognition-techniques
   id: https://par.nsf.gov/biblio/10097228
-- title: Technical Program
-  authors: []
-  publisher: ''
-  date: '1900-01-01'
-  link: https://www.insticc.org/node/TechnicalProgram/biostec/2021/presentationDetails/103252
-  id: https://www.insticc.org/node/TechnicalProgram/biostec/2021/presentationDetails/103252
 - title: 'AuthN-AuthZ: Integrated, User-Friendly and Privacy-Preserving Authentication
     and Authorization'
   authors:
