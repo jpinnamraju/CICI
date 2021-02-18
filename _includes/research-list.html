@@ -4,9 +4,6 @@
 
 {% for yeargroup in byyear %}
 
-### {{ yeargroup.name }}
-{:.card_search_hide}
-
 {% for paper in yeargroup.items %}
 
 {% assign authors = paper.authors | join: ", " %}
