@@ -21,8 +21,9 @@ Scientific cyberinfrastructures promise solutions to computational challenges wi
 [Cloudcomputing](https://www.lucidchart.com/blog/cloud-computing-basics)
 
 Although Jetstream provides basic data storage security and web authentication, its security features do not satisfy the strict requirements involving sensitive data, such as healthcare data with the Protected Health Information (PHI). Guaranteeing the security and integrity of the scientific workflow and associated data is essential to the credibility of knowledge and scientific discovery. The proposed cybersecurity architecture supports roles, role hierarchies, and data hierarchies, as well as dynamic changes of roles and hierarchical relations within the scientific infrastructure. This project will combine existing cutting-edge security frameworks (including an Authentication Authorization-Accounting framework, Multi- Factor-Authentication (MFA), Secure Digital Provenance, and Blockchain) with advanced security tools (e.g., Biometric-Capsule, Cryptography-based Hierarchical Access Control, and dual-level key management). These are integrated to deliver a secure scientific infrastructure, which allows researchers, educators, practitioners, and students to remotely access and share sensitive data, computing resources, and workflows with flexibility and convenience while also having the highest security and privacy protection. This project will also validate the developed secure infrastructure in life-science research environments and in the education settings of health informatics.
+{% endcapture %}
 
-
+{% capture text %}
 [See our publications &nbsp;→](research)
 {:.center}
 {% endcapture %}
