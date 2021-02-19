@@ -7,8 +7,10 @@ title: Team
 <!-- section break -->
 
 {% capture html %}
-{% include team-list.html role="student" %}
-{% include team-list.html role="researcher" %}
+{% include team-list.html role="faculty" %}
+{% include team-list.html role="phd students" %}
+{% include team-list.html role="master's students" %}
+{% include team-list.html role="undergraduate student" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
