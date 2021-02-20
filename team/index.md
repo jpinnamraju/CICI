@@ -8,9 +8,7 @@ title: Team
 
 {% capture html %}
 {% include team-list.html role="faculty" %}
-{% include team-list.html role="PhD student" %}
 {% endcapture %} 
-
 {% include centerer.html html=html %}
 
 <!-- section break -->
