@@ -3,7 +3,7 @@ title: Huanmei Wu
 search:
   - H. Wu
   - H Wu
-role: researcher
+role: faculty
 image: images/huanmei-wu.jpg
 email: hw9@iupui.edu
 ---

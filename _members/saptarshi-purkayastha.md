@@ -3,7 +3,7 @@ title: Saptarshi Purkayastha
 search:
   - S. Purkayastha
   - S Purkayastha
-role: researcher
+role: faculty
 image: images/saptarshi-purkayastha.jpg
 website: https://soic.iupui.edu/people/saptarshi-purkayastha/
 email: saptpurk@iupui.edu

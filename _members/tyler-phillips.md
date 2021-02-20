@@ -3,7 +3,7 @@ title: Tyler Philips
 search:
   - T. Philips
   - T Philips
-role: researcher
+role: phd
 image: images/tyler-phillips.jpg
 website: https://cs.iupui.edu/~phillity/
 email:  phillity@iu.edu

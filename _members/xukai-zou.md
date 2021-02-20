@@ -3,7 +3,7 @@ title: Dr. Xukai Zou
 search:
   - Z. Xukai
   - Z Xukai
-role: researcher
+role: faculty
 image: images/xukai-zou.jpg
 website: http://cs.iupui.edu/~xzou/
 email: xzou@iupui.edu

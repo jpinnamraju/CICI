@@ -3,7 +3,7 @@ title: Jiannan Liu
 search:
   - J. Liu
   - J Liu
-role: researcher
+role: phd
 image: images/jiannan-liu.jpg
 website: https://science.iupui.edu/cs/research/faculty-labs/dynaswap/index.html
 email: johliu@iu.edu
