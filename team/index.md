@@ -9,8 +9,6 @@ title: Team
 {% capture html %}
 {% include team-list.html role="faculty" %}
 {% include team-list.html role="PhD student" %}
-{% include team-list.html role="Master's student" %}
-{% include team-list.html role="Undergraduate student" %}
 {% endcapture %} 
 
 {% include centerer.html html=html %}
