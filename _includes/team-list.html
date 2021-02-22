@@ -18,9 +18,6 @@
 {% assign members = members | where_exp: "member", "member.group == group" %}
 {% endif %}
 
-{%- if include.role -%}
-{%- include role.html type=include.role -%}
-{%- endif -%}
 <p>
 {% for member in members %}
 {%-
@@ -32,4 +29,4 @@
   mini=include.mini
 -%}
 {% endfor %}
-</p>
+</p><br/>
