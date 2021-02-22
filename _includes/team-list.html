@@ -18,7 +18,6 @@
 {% assign members = members | where_exp: "member", "member.group == group" %}
 {% endif %}
 
-<p>
 {% for member in members %}
 {%-
   include portrait.html
@@ -29,4 +28,3 @@
   mini=include.mini
 -%}
 {% endfor %}
-</p><br/>
