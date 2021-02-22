@@ -21,7 +21,7 @@
 {%- if include.role -%}
 {%- include role.html type=include.role -%}
 {%- endif -%}
-
+<p>
 {% for member in members %}
 {%-
   include portrait.html
@@ -31,5 +31,5 @@
   role=member.role
   mini=include.mini
 -%}
-<br/>
 {% endfor %}
+</p>
