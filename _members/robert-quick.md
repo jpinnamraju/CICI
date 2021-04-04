@@ -1,3 +1,4 @@
+---
 title: Robert Quick
 search:
   - R. Quick
